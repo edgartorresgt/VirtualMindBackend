@@ -9,4 +9,4 @@ Esta solucion fue creada con .net core 3.1, utilizando entity framework. Estos s
 3. dotnet ef migrations add InitialCreate 
 4. dotnet ef database update
 
-Con esto se generaran automaticamente los objetos de la base de datos. 
+Con esto se generaran automaticamente los objetos en una base de datos SQL. 
