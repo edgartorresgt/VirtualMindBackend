@@ -10,3 +10,23 @@ Esta solucion fue creada con .net core 3.1, utilizando entity framework. Estos s
 4. dotnet ef database update
 
 Con esto se generaran automaticamente los objetos en una base de datos SQL. 
+
+## Peticiones a los servicios
+A continuacion escribo los ejemplos para las peticiones
+
+### GET
+
+- `http://localhost:5000/api/CotizacionMoneda/dolar`
+- `http://localhost:5000/api/CotizacionMoneda/real`
+- `http://localhost:5000/api/CompraMoneda`
+
+### POST
+
+- `http://localhost:5000/api/CompraMoneda`
+
+El cuerpo del request es: 
+  {
+    "IdUsuario": "Edgar",
+    "MontoPesosArgentinos": "1000.00",
+    "MonedaCompra": "dolar"
+  }  
