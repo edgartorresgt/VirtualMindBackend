@@ -1,0 +1,37 @@
+[
+  {
+    "IdUsuario": "Edgar",
+    "MontoPesosArgentinos": 1000.00,
+    "MonedaCompra": "Dolar",
+    "MontoCambioDia": 70.50,
+    "MontoCompra": 14.18
+  },
+  {
+    "IdUsuario": "Danilo",
+    "MontoPesosArgentinos": 1000.00,
+    "MonedaCompra": "Dolar",
+    "MontoCambioDia": 70.50,
+    "MontoCompra": 14.18
+  },
+  {
+    "IdUsuario": "Torres",
+    "MontoPesosArgentinos": 1000.00,
+    "MonedaCompra": "Dolar",
+    "MontoCambioDia": 70.50,
+    "MontoCompra": 14.18
+  },
+  {
+    "IdUsuario": "Estrada",
+    "MontoPesosArgentinos": 1000.00,
+    "MonedaCompra": "Dolar",
+    "MontoCambioDia": 70.50,
+    "MontoCompra": 14.18
+  },
+  {
+    "IdUsuario": "Edgar",
+    "MontoPesosArgentinos": 1000.00,
+    "MonedaCompra": "Dolar",
+    "MontoCambioDia": 70.50,
+    "MontoCompra": 14.18
+  }
+]
